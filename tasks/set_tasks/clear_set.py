@@ -6,8 +6,7 @@
 
 
 def clear_set(collection: set) -> set:
-    # TODO вставить код сюда
-    return collection
+    return collection.clear()
 
 
 if __name__ == '__main__':
