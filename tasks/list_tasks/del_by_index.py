@@ -8,7 +8,6 @@ shopping_list = ["молоко", "сметана", "сыр"]
 
 
 def del_by_num(collection: list, num: int) -> list:
-    # TODO вставить код сюда
     return collection.pop(num - 1)
 
 
