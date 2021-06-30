@@ -6,7 +6,8 @@
 
 
 def clear_set(collection: set) -> set:
-    return collection.clear()
+    collection.clear()
+    return collection
 
 
 if __name__ == '__main__':
