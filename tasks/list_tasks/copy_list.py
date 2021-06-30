@@ -25,7 +25,6 @@ user_data_template = [
 
 
 def copy_list(collection: list) -> list:
-    # TODO вставить код сюда
     collection_copy = copy(collection)
     return collection_copy
 
