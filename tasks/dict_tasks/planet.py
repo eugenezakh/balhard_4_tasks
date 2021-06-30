@@ -20,6 +20,7 @@
 get_planet_name(3) -> 'Земля'
 """
 
+
 def get_planet_name(planet_num: int) -> str:
     planets = {
         1: "Меркурий",

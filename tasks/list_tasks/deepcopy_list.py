@@ -11,7 +11,6 @@
 (Нужно вернуть глубокую копию данных)
 """
 import copy
-from copy import deepcopy
 
 user_data = {
     "name": None,
